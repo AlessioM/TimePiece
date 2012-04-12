@@ -17,39 +17,39 @@ public class Candidate {
 //		"XXXXXXXXXX";
 
 	
-//	public String candidate = //11x11
-//		"XXXXXXXXXXX|" +
-//		"XXXXXXXXXXX|" +
-//		"XXXXXXXXXXX|" +
-//		"XXXXXXXXXXX|" +
-//		"XXXXXXXXXXX|" +
-//		"XXXXXXXXXXX|" +
-//		"XXXXXXXXXXX|" +
-//		"XXXXXXXXXXX|" +
-//		"XXXXXXXXXXX|" +
-//		"XXXXXXXXXXX|" +
-//		"XXXXXXXXXXX";
+	public String candidate = //11x11
+		"XXXXXXXXXXX|" +
+		"XXXXXXXXXXX|" +
+		"XXXXXXXXXXX|" +
+		"XXXXXXXXXXX|" +
+		"XXXXXXXXXXX|" +
+		"XXXXXXXXXXX|" +
+		"XXXXXXXXXXX|" +
+		"XXXXXXXXXXX|" +
+		"XXXXXXXXXXX|" +
+		"XXXXXXXXXXX|" +
+		"XXXXXXXXXXX";
 	
 	
 	
 	//circle
-	public String candidate = //circle
-			      "ONER|" +
-			    "SETHIRTY|" +
-			  "FIFTYPTYHALF|" +
-			  "FTENETWENTYR|" +
-			 "FIVENTPASTNINE|" +
-			 "TIELEVENTHREEH|" +
-			"XSIXTFIFTEENTWOEN|" +
-			"TWELVEEIGHTSEVENR|" +
-			"YWEQUARTERFOURTYE|" +
-			"FOFIVENTCLOCKTENY|" +
-			 "NINEEPASTENTOU|" +
-			 "FIFTEENFOURTHY|" +
-			  "TWOHFIFTYEWR|" +
-			  "THIRTYTWENTY|" +
-			   "FIVENONE|" +
-			     "YTEN";
+//	public String candidate = //circle
+//			      "ONER|" +
+//			    "SETHIRTY|" +
+//			  "FIFTYPTYHALF|" +
+//			  "FTENETWENTYR|" +
+//			 "FIVENTPASTNINE|" +
+//			 "TIELEVENTHREEH|" +
+//			"XSIXTFIFTEENTWOEN|" +
+//			"TWELVEEIGHTSEVENR|" +
+//			"YWEQUARTERFOURTYE|" +
+//			"FOFIVENTCLOCKTENY|" +
+//			 "NINEEPASTENTOU|" +
+//			 "FIFTEENFOURTHY|" +
+//			  "TWOHFIFTYEWR|" +
+//			  "THIRTYTWENTY|" +
+//			   "FIVENONE|" +
+//			     "YTEN";
 	
 //		public String candidate = //triangle		
 //			"PSEVENSIXTWELVEN|" +
