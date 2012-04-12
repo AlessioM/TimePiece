@@ -1,3 +1,9 @@
 This is just a quick hack for generating word clocks
 
 see http://miniaturegiantspacehamster.blogspot.com/2011/03/building-word-clock-part-1-genetic.html for more details!
+
+relevant parts of the porgram output:
+check ok:	total number of strings that can be represented (e.g. "four thirty", "half past four", ...)
+nok:		total number of strings that can not be represented
+times ok:	from the 144 5-minutes intervals (1:05, 1:10, ...) how many can be represented?
+nok:		how many times intervals can not be represented (i.e. the clock is not usable as long as there are more then 0)
